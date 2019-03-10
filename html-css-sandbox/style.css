@@ -1,0 +1,29 @@
+h1#header {
+    background: black;
+    color: #ffffff;
+    text-align: center; 
+}
+
+body {
+    font-family: Tiempos;
+}
+
+#page-wrap {
+    width: 50%;
+    margin: 0 auto;
+}
+
+img#main {
+    max-width: 5%;
+}
+
+img {
+    max-width: 10%;
+}
+
+.footer {
+    background-color: rgb(64, 25, 53);
+    color: white;
+    text-align: left;
+}
+
